@@ -44,6 +44,8 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+<img width="1108" height="682" alt="21" src="https://github.com/user-attachments/assets/aa13601c-4084-411a-8411-b4b8a0ccc575" />
+<img width="1041" height="495" alt="22" src="https://github.com/user-attachments/assets/28221713-0a21-48f5-9ba0-16d19b4a4a95" />
 
 
 ### Name:Rithish.B
